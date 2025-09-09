@@ -6,8 +6,7 @@
         },
         "download_urls": {
             "GitHub Releases": "https://github.com/Mirrowel/AOEngine-Assets/releases/download/v0.52/AOEngine-v0.52.zip"
-        },
-        "latest": true
+        }
     },
     {
         "version": "123",
@@ -16,6 +15,7 @@
         },
         "download_urls": {
             "GitHub Releases": "https://github.com/Mirrowel/AOEngine-Assets/releases/download/v123/AOEngine-v123.zip"
-        }
+        },
+        "latest": true
     }
 ]
