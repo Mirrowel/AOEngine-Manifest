@@ -1,12 +1,7 @@
 {
     "version": "123",
-    "manifest_urls": {
-        "GitHub Git": "https://github.com/Mirrowel/AOEngine-Manifest/raw/main/manifests/manifest-v123.json"
-    },
-    "download_urls": {
-        "GitHub Releases": "https://github.com/Mirrowel/AOEngine-Assets/releases/download/v123/AOEngine-v123.zip"
-    },
     "release_notes": "multiline\nnote\n\ntest\n\n\n\n\n123",
     "zip_sha256": "6d84099cc25954434d3bc3d81b37a67a06710b52942f2f51d2f7be331f9e2104",
     "upload_date": "2025-09-09T23:15:12.066731+00:00"
+
 }
