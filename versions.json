@@ -8,5 +8,15 @@
         "download_urls": {
             "GitHub Releases": "https://github.com/Mirrowel/AOEngine-Assets/releases/download/v124/AOEngine-v124.zip"
         }
+    },
+    {
+        "version": "v0.55",
+        "release_notes": "Big booba testing release",
+        "manifest_urls": {
+            "GitHub Git": "https://github.com/Mirrowel/AOEngine-Manifest/raw/main/manifests/manifest-vv0.55.json"
+        },
+        "download_urls": {
+            "GitHub Releases": "https://github.com/Mirrowel/AOEngine-Assets/releases/download/vv0.55/AOEngine-vv0.55.zip"
+        }
     }
 ]
