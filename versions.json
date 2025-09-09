@@ -1,0 +1,12 @@
+[
+    {
+        "version": "124",
+        "release_notes": "456",
+        "manifest_urls": {
+            "GitHub Git": "https://github.com/Mirrowel/AOEngine-Manifest/raw/main/manifests/manifest-v124.json"
+        },
+        "download_urls": {
+            "GitHub Releases": "https://github.com/Mirrowel/AOEngine-Assets/releases/download/v124/AOEngine-v124.zip"
+        }
+    }
+]
