@@ -2,6 +2,16 @@
     {
         "version": "0.52",
         "manifest_urls": {
+            "GitHub Git": "https://github.com/Mirrowel/AOEngine-Manifest/raw/main/manifests/manifest-v0.52(Profiler).json"
+        },
+        "download_urls": {
+            "GitHub Releases": "https://github.com/Mirrowel/AOEngine-Assets/releases/download/v0.52%28Profiler%29/AOEngine-v0.52.Profiler.tar.zst"
+        },
+        "profiler": 1
+    },
+    {
+        "version": "0.52",
+        "manifest_urls": {
             "GitHub Git": "https://github.com/Mirrowel/AOEngine-Manifest/raw/main/manifests/manifest-v0.52.json"
         },
         "download_urls": {
