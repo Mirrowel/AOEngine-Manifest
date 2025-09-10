@@ -1,0 +1,13 @@
+{
+    "version": "0.52",
+    "release_notes": "yes profiler",
+    "archive_sha256": "46371974ea373998452f4b89b56bf741624320b48831950a2210c906e1e8667c",
+    "upload_date": "2025-09-10T06:27:22.728567+00:00",
+    "files": [
+        "AnomalyDX11.pdb",
+        "AnomalyDX11.exe",
+        "AnomalyDX9.pdb",
+        "AnomalyDX9.exe"
+    ],
+    "profiler": 1
+}
